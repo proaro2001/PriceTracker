@@ -20,12 +20,16 @@ class Pidan(BaseScraper):
         )
     
     def clean_data(self):
-        # for each product in the data, print the title
         products = self.data.find_elements(By.XPATH, '//*[@id="shopify-section-collection-template"]/div/div[2]/div/div')
         self.data = [] # clear the data
 
         for product in products:
             # print(product.text)
+            # print("")
+            reviews_count = product.find_element(By.XPATH, './/div[5]')
+            # rating = len(product.find_elements(By.CLASS_NAME, 'star-container yotpo-sr-star-full'))
+            # print(rating)
+            star_rating_elements = len(product.find_elements(By.CLASS_NAME, 'yotpo-sr-star-full'))
             title = product.find_element(By.CLASS_NAME, 'product-block__title')
             price = product.find_element(By.CLASS_NAME, 'product-price')
             onSale = "On Sale" in product.text
@@ -40,7 +44,9 @@ class Pidan(BaseScraper):
                 "price": price,
                 "regular_price": regular_price,
                 "onSale": onSale,
-                "date": date
+                "date": date,
+                "reviews_count": reviews_count.text,
+                "star_rating": star_rating_elements
             })
 
     def store(self):
