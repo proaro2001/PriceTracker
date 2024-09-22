@@ -1,0 +1,10 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Ignore MacOS system files
+.DS_Store
