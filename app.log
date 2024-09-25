@@ -1,0 +1,77 @@
+2024-09-24 17:52:32,124 - INFO - Starting the scraping process on Teddybob
+2024-09-24 17:52:32,125 - INFO - ====== WebDriver manager ======
+2024-09-24 17:52:32,207 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-24 17:52:32,317 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-24 17:52:32,360 - INFO - Driver [/Users/kahinchoi/.wdm/drivers/chromedriver/mac64/129.0.6668.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-09-24 17:52:33,142 - INFO - Fetching data from https://teddybob.ca/collections/pidan-cat-litter
+2024-09-24 17:52:34,150 - INFO - Parsing data
+2024-09-24 17:52:34,159 - INFO - Cleaning data
+2024-09-24 17:52:34,545 - INFO - Storing data
+2024-09-24 17:52:34,545 - INFO - Starting function: save_to_json
+2024-09-24 17:52:34,546 - INFO - Data saved to teddybob.json
+2024-09-24 17:52:34,546 - INFO - Finished function: save_to_json
+2024-09-24 17:52:34,546 - INFO - Starting function: save_to_csv
+2024-09-24 17:52:34,546 - INFO - Finished function: save_to_csv
+2024-09-24 17:52:34,546 - INFO - Data scraped successfully
+
+2024-09-24 17:52:35,633 - INFO - Starting the scraping process on Pidan
+2024-09-24 17:52:36,119 - INFO - patching driver executable /Users/kahinchoi/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-09-24 17:52:39,586 - INFO - setting properties for headless
+2024-09-24 17:52:39,587 - INFO - Fetching data from https://pidan.store/collections/all?page=1
+2024-09-24 17:52:42,582 - INFO - Parsing data
+2024-09-24 17:52:42,591 - INFO - Cleaning data
+2024-09-24 17:52:42,856 - INFO - Storing data
+2024-09-24 17:52:42,856 - INFO - Starting function: save_to_json
+2024-09-24 17:52:42,858 - INFO - Data saved to pidan.json
+2024-09-24 17:52:42,858 - INFO - Finished function: save_to_json
+2024-09-24 17:52:42,858 - INFO - Starting function: save_to_csv
+2024-09-24 17:52:42,858 - INFO - Finished function: save_to_csv
+2024-09-24 17:52:42,858 - INFO - Data scraped successfully
+
+2024-09-24 17:52:47,863 - INFO - Fetching data from https://pidan.store/collections/all?page=2
+2024-09-24 17:52:48,728 - INFO - Parsing data
+2024-09-24 17:52:48,762 - INFO - Cleaning data
+2024-09-24 17:52:48,998 - INFO - Storing data
+2024-09-24 17:52:48,998 - INFO - Starting function: save_to_json
+2024-09-24 17:52:49,001 - INFO - Data saved to pidan.json
+2024-09-24 17:52:49,001 - INFO - Finished function: save_to_json
+2024-09-24 17:52:49,001 - INFO - Starting function: save_to_csv
+2024-09-24 17:52:49,001 - INFO - Finished function: save_to_csv
+2024-09-24 17:52:49,001 - INFO - Data scraped successfully
+
+2024-09-24 17:52:52,004 - INFO - Fetching data from https://pidan.store/collections/all?page=3
+2024-09-24 17:52:52,103 - INFO - Parsing data
+2024-09-24 17:52:52,692 - INFO - Cleaning data
+2024-09-24 17:52:52,918 - INFO - Storing data
+2024-09-24 17:52:52,918 - INFO - Starting function: save_to_json
+2024-09-24 17:52:52,919 - INFO - Data saved to pidan.json
+2024-09-24 17:52:52,919 - INFO - Finished function: save_to_json
+2024-09-24 17:52:52,919 - INFO - Starting function: save_to_csv
+2024-09-24 17:52:52,919 - INFO - Finished function: save_to_csv
+2024-09-24 17:52:52,919 - INFO - Data scraped successfully
+
+2024-09-24 17:52:54,924 - INFO - Fetching data from https://pidan.store/collections/all?page=4
+2024-09-24 17:52:55,538 - INFO - Parsing data
+2024-09-24 17:52:55,549 - INFO - Cleaning data
+2024-09-24 17:52:55,775 - INFO - Storing data
+2024-09-24 17:52:55,775 - INFO - Starting function: save_to_json
+2024-09-24 17:52:55,776 - INFO - Data saved to pidan.json
+2024-09-24 17:52:55,776 - INFO - Finished function: save_to_json
+2024-09-24 17:52:55,776 - INFO - Starting function: save_to_csv
+2024-09-24 17:52:55,776 - INFO - Finished function: save_to_csv
+2024-09-24 17:52:55,776 - INFO - Data scraped successfully
+
+2024-09-24 17:53:00,778 - INFO - Fetching data from https://pidan.store/collections/all?page=5
+2024-09-24 17:53:01,487 - INFO - Parsing data
+2024-09-24 17:53:01,505 - INFO - Cleaning data
+2024-09-24 17:53:01,649 - INFO - Storing data
+2024-09-24 17:53:01,649 - INFO - Starting function: save_to_json
+2024-09-24 17:53:01,650 - INFO - Data saved to pidan.json
+2024-09-24 17:53:01,650 - INFO - Finished function: save_to_json
+2024-09-24 17:53:01,650 - INFO - Starting function: save_to_csv
+2024-09-24 17:53:01,650 - INFO - Finished function: save_to_csv
+2024-09-24 17:53:01,650 - INFO - Data scraped successfully
+
+2024-09-24 17:53:04,947 - INFO - Scraping complete
+
+2024-09-24 17:53:04,948 - INFO - ensuring close
