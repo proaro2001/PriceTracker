@@ -68,10 +68,3 @@ class Pidan(BaseScraper):
                 ],
             }
             
-
-
-    def store(self):
-        self.save_to_json("pidan.json")
-        self.save_to_csv("pidan.csv")
-        
-

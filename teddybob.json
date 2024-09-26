@@ -40,6 +40,14 @@
                 "regular_price": "$49.99CAD",
                 "reviews_count": "3 Reviews",
                 "star_rating": 5
+            },
+            {
+                "date": "2024-09-25 13:33:40",
+                "onSale": false,
+                "price": "$49.99CAD",
+                "regular_price": "$49.99CAD",
+                "reviews_count": "3 Reviews",
+                "star_rating": 5
             }
         ]
     },
@@ -79,6 +87,14 @@
             },
             {
                 "date": "2024-09-24 17:52:34",
+                "onSale": false,
+                "price": "$49.99CAD",
+                "regular_price": "$49.99CAD",
+                "reviews_count": "2 Reviews",
+                "star_rating": 5
+            },
+            {
+                "date": "2024-09-25 13:33:40",
                 "onSale": false,
                 "price": "$49.99CAD",
                 "regular_price": "$49.99CAD",
@@ -128,6 +144,14 @@
                 "regular_price": "$49.99CAD",
                 "reviews_count": "2 Reviews",
                 "star_rating": 5
+            },
+            {
+                "date": "2024-09-25 13:33:40",
+                "onSale": false,
+                "price": "$49.99CAD",
+                "regular_price": "$49.99CAD",
+                "reviews_count": "2 Reviews",
+                "star_rating": 5
             }
         ]
     },
@@ -167,6 +191,14 @@
             },
             {
                 "date": "2024-09-24 17:52:34",
+                "onSale": false,
+                "price": "$49.99CAD",
+                "regular_price": "$49.99CAD",
+                "reviews_count": "0 Reviews",
+                "star_rating": 0
+            },
+            {
+                "date": "2024-09-25 13:33:40",
                 "onSale": false,
                 "price": "$49.99CAD",
                 "regular_price": "$49.99CAD",
@@ -216,6 +248,14 @@
                 "regular_price": "$26.99CAD",
                 "reviews_count": "4 Reviews",
                 "star_rating": 5
+            },
+            {
+                "date": "2024-09-25 13:33:40",
+                "onSale": false,
+                "price": "$26.99CAD",
+                "regular_price": "$26.99CAD",
+                "reviews_count": "4 Reviews",
+                "star_rating": 5
             }
         ]
     },
@@ -255,6 +295,14 @@
             },
             {
                 "date": "2024-09-24 17:52:34",
+                "onSale": true,
+                "price": "13.95CAD",
+                "regular_price": "$49.99CAD",
+                "reviews_count": "27 Reviews",
+                "star_rating": 5
+            },
+            {
+                "date": "2024-09-25 13:33:40",
                 "onSale": true,
                 "price": "13.95CAD",
                 "regular_price": "$49.99CAD",
@@ -304,6 +352,14 @@
                 "regular_price": "$49.99CAD",
                 "reviews_count": "7 Reviews",
                 "star_rating": 5
+            },
+            {
+                "date": "2024-09-25 13:33:40",
+                "onSale": true,
+                "price": "13.95CAD",
+                "regular_price": "$49.99CAD",
+                "reviews_count": "7 Reviews",
+                "star_rating": 5
             }
         ]
     },
@@ -348,6 +404,14 @@
                 "regular_price": "$49.99CAD",
                 "reviews_count": "1 Review",
                 "star_rating": 5
+            },
+            {
+                "date": "2024-09-25 13:33:40",
+                "onSale": true,
+                "price": "13.95CAD",
+                "regular_price": "$49.99CAD",
+                "reviews_count": "1 Review",
+                "star_rating": 5
             }
         ]
     },
@@ -373,6 +437,14 @@
             },
             {
                 "date": "2024-09-24 17:52:34",
+                "onSale": true,
+                "price": "13.95CAD",
+                "regular_price": "$49.99CAD",
+                "reviews_count": "0 Reviews",
+                "star_rating": 0
+            },
+            {
+                "date": "2024-09-25 13:33:40",
                 "onSale": true,
                 "price": "13.95CAD",
                 "regular_price": "$49.99CAD",

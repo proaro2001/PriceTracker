@@ -47,14 +47,15 @@ class BaseScraper(ABC):
         """
         pass
 
-    @abstractmethod
     def store(self):
         """
         Store the cleaned data in a structured format.
         
         This method should save the data to a file (e.g., JSON, CSV) or a database.
         """
-        pass
+        
+        self.save_to_json("pidan.json")
+        self.save_to_csv("pidan.csv")
 
     def run(self):
         """

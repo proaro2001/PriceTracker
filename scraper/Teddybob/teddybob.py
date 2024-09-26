@@ -60,9 +60,3 @@ class Teddybob(BaseScraper):
                     }
                 ],
             }
-
-    def store(self):
-        # store the data in a json file 
-        self.save_to_json("teddybob.json")
-        self.save_to_csv("teddybob.csv")
-

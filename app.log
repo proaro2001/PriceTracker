@@ -75,3 +75,115 @@
 2024-09-24 17:53:04,947 - INFO - Scraping complete
 
 2024-09-24 17:53:04,948 - INFO - ensuring close
+2024-09-25 13:33:36,725 - INFO - Starting the scraping process on Teddybob
+2024-09-25 13:33:36,726 - INFO - ====== WebDriver manager ======
+2024-09-25 13:33:36,835 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-25 13:33:37,378 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-25 13:33:37,438 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-25 13:33:37,520 - INFO - WebDriver version 129.0.6668.70 selected
+2024-09-25 13:33:37,522 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-09-25 13:33:37,522 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/mac-arm64/chromedriver-mac-arm64.zip
+2024-09-25 13:33:37,586 - INFO - Driver downloading response is 200
+2024-09-25 13:33:37,882 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-25 13:33:37,962 - INFO - Driver has been saved in cache [/Users/kahinchoi/.wdm/drivers/chromedriver/mac64/129.0.6668.70]
+2024-09-25 13:33:38,892 - INFO - Fetching data from https://teddybob.ca/collections/pidan-cat-litter
+2024-09-25 13:33:39,950 - INFO - Parsing data
+2024-09-25 13:33:39,960 - INFO - Cleaning data
+2024-09-25 13:33:40,331 - INFO - Storing data
+2024-09-25 13:33:40,332 - INFO - Data saved to teddybob.json
+2024-09-25 13:33:40,332 - INFO - Data scraped successfully
+
+2024-09-25 13:33:41,427 - INFO - Starting the scraping process on Pidan
+2024-09-25 13:33:42,256 - INFO - patching driver executable /Users/kahinchoi/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-09-25 13:33:46,264 - INFO - setting properties for headless
+2024-09-25 13:33:46,264 - INFO - Fetching data from https://pidan.store/collections/all?page=1
+2024-09-25 13:33:47,309 - INFO - Parsing data
+2024-09-25 13:33:50,836 - INFO - Cleaning data
+2024-09-25 13:33:51,053 - INFO - Storing data
+2024-09-25 13:33:51,054 - INFO - Data saved to pidan.json
+2024-09-25 13:33:51,055 - INFO - Data scraped successfully
+
+2024-09-25 13:33:55,055 - INFO - Fetching data from https://pidan.store/collections/all?page=2
+2024-09-25 13:33:56,079 - INFO - Parsing data
+2024-09-25 13:33:56,096 - INFO - Cleaning data
+2024-09-25 13:33:56,318 - INFO - Storing data
+2024-09-25 13:33:56,319 - INFO - Data saved to pidan.json
+2024-09-25 13:33:56,319 - INFO - Data scraped successfully
+
+2024-09-25 13:33:58,320 - INFO - Fetching data from https://pidan.store/collections/all?page=3
+2024-09-25 13:33:59,263 - INFO - Parsing data
+2024-09-25 13:33:59,279 - INFO - Cleaning data
+2024-09-25 13:33:59,493 - INFO - Storing data
+2024-09-25 13:33:59,494 - INFO - Data saved to pidan.json
+2024-09-25 13:33:59,495 - INFO - Data scraped successfully
+
+2024-09-25 13:34:04,496 - INFO - Fetching data from https://pidan.store/collections/all?page=4
+2024-09-25 13:34:05,638 - INFO - Parsing data
+2024-09-25 13:34:05,650 - INFO - Cleaning data
+2024-09-25 13:34:05,868 - INFO - Storing data
+2024-09-25 13:34:05,869 - INFO - Data saved to pidan.json
+2024-09-25 13:34:05,870 - INFO - Data scraped successfully
+
+2024-09-25 13:34:06,871 - INFO - Fetching data from https://pidan.store/collections/all?page=5
+2024-09-25 13:34:08,097 - INFO - Parsing data
+2024-09-25 13:34:08,109 - INFO - Cleaning data
+2024-09-25 13:34:08,267 - INFO - Storing data
+2024-09-25 13:34:08,268 - INFO - Data saved to pidan.json
+2024-09-25 13:34:08,269 - INFO - Data scraped successfully
+
+2024-09-25 13:34:11,593 - INFO - Scraping complete
+
+2024-09-25 13:34:11,596 - INFO - ensuring close
+2024-09-25 17:01:41,305 - INFO - Starting the scraping process on Teddybob
+2024-09-25 17:01:41,307 - INFO - ====== WebDriver manager ======
+2024-09-25 17:01:46,174 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-25 17:01:46,499 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-25 17:01:46,548 - INFO - Driver [/Users/kahinchoi/.wdm/drivers/chromedriver/mac64/129.0.6668.70/chromedriver-mac-arm64/chromedriver] found in cache
+2024-09-25 17:01:47,703 - INFO - Fetching data from https://teddybob.ca/collections/pidan-cat-litter
+2024-09-25 17:01:48,152 - INFO - Parsing data
+2024-09-25 17:01:48,711 - INFO - Cleaning data
+2024-09-25 17:01:49,093 - INFO - Storing data
+2024-09-25 17:01:49,095 - INFO - Data saved to pidan.json
+2024-09-25 17:01:49,095 - INFO - Data scraped successfully
+
+2024-09-25 17:01:50,191 - INFO - Starting the scraping process on Pidan
+2024-09-25 17:01:50,772 - INFO - patching driver executable /Users/kahinchoi/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2024-09-25 17:01:54,268 - INFO - setting properties for headless
+2024-09-25 17:01:54,268 - INFO - Fetching data from https://pidan.store/collections/all?page=1
+2024-09-25 17:01:54,905 - INFO - Parsing data
+2024-09-25 17:01:58,088 - INFO - Cleaning data
+2024-09-25 17:01:58,320 - INFO - Storing data
+2024-09-25 17:01:58,321 - INFO - Data saved to pidan.json
+2024-09-25 17:01:58,321 - INFO - Data scraped successfully
+
+2024-09-25 17:01:59,322 - INFO - Fetching data from https://pidan.store/collections/all?page=2
+2024-09-25 17:02:00,204 - INFO - Parsing data
+2024-09-25 17:02:00,240 - INFO - Cleaning data
+2024-09-25 17:02:00,446 - INFO - Storing data
+2024-09-25 17:02:00,447 - INFO - Data saved to pidan.json
+2024-09-25 17:02:00,447 - INFO - Data scraped successfully
+
+2024-09-25 17:02:04,448 - INFO - Fetching data from https://pidan.store/collections/all?page=3
+2024-09-25 17:02:05,316 - INFO - Parsing data
+2024-09-25 17:02:05,335 - INFO - Cleaning data
+2024-09-25 17:02:05,544 - INFO - Storing data
+2024-09-25 17:02:05,545 - INFO - Data saved to pidan.json
+2024-09-25 17:02:05,545 - INFO - Data scraped successfully
+
+2024-09-25 17:02:07,550 - INFO - Fetching data from https://pidan.store/collections/all?page=4
+2024-09-25 17:02:08,403 - INFO - Parsing data
+2024-09-25 17:02:08,420 - INFO - Cleaning data
+2024-09-25 17:02:08,631 - INFO - Storing data
+2024-09-25 17:02:08,632 - INFO - Data saved to pidan.json
+2024-09-25 17:02:08,632 - INFO - Data scraped successfully
+
+2024-09-25 17:02:10,637 - INFO - Fetching data from https://pidan.store/collections/all?page=5
+2024-09-25 17:02:11,536 - INFO - Parsing data
+2024-09-25 17:02:11,554 - INFO - Cleaning data
+2024-09-25 17:02:11,692 - INFO - Storing data
+2024-09-25 17:02:11,694 - INFO - Data saved to pidan.json
+2024-09-25 17:02:11,694 - INFO - Data scraped successfully
+
+2024-09-25 17:02:16,024 - INFO - Scraping complete
+
+2024-09-25 17:02:16,025 - INFO - ensuring close
